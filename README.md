@@ -2,7 +2,9 @@
 - 👀 I’m interested in training, IT, BIM (Building Information Modelling) in design and construction
 - 🌱 I currently teach construction, design, BIM
 - 💞️ I’m looking to collaborate on these cases (above)
-- 📫 How to reach me ...
+- 📫 How to reach me -
+LinkedIn -
+Habr Career - https://career.habr.com/moderato93
 
 <!---
 moderato97/moderato97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
